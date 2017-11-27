@@ -119,3 +119,7 @@ To create a Twitter application for signing in with you may require a phone numb
 	APP_URL=http://mybookstackurl.com
 	```
 10. All done! Users should now be able to link their AzureAD account in their account profile pages and also register/login using their Slack account.
+
+---
+
+### Okta
